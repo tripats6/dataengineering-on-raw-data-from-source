@@ -18,4 +18,5 @@ The dataset from Kaggle (https://www.kaggle.com/datasets/datasnaek/youtube-new) 
 
 **Architecture:**
 
-![image](https://github.com/tripats6/dataengineering-on-raw-data-from-source/assets/168261501/eeb77ac1-efc2-4d9d-80ed-162b5f691978)
+<img width="1129" alt="Screenshot 2024-06-20 at 7 36 19 PM" src="https://github.com/tripats6/dataengineering-on-raw-data-from-source/assets/168261501/21214941-9d39-4bf3-bb9b-369aff3f2704">
+
