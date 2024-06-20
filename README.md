@@ -1,3 +1,5 @@
+# Data Engineering on video streaming dataset
+
 **Project Summary**
 
 This project leverages a suite of AWS services to build a scalable, efficient, and secure data pipeline for managing and analysing YouTube video data. By implementing a robust ETL process, creating a centralised data lake, and developing insightful dashboards, we aim to provide valuable insights into YouTube video trends and categories, supporting data-driven decision-making.
@@ -12,7 +14,7 @@ This project leverages a suite of AWS services to build a scalable, efficient, a
 
 **Dataset Used:**
 
-The dataset from Kaggle includes statistics on daily popular YouTube videos over several months, provided as CSV files. Each day, up to 200 trending videos are recorded for various locations, with separate files for each region. The data includes video title, channel title, publication time, tags, views, likes, dislikes, description, and comment count. Additionally, a category_id field, specific to each region, is included in the accompanying JSON file.
+The dataset from Kaggle (https://www.kaggle.com/datasets/datasnaek/youtube-new) includes statistics on daily popular YouTube videos over several months, provided as CSV files. Each day, up to 200 trending videos are recorded for various locations, with separate files for each region. The data includes video title, channel title, publication time, tags, views, likes, dislikes, description, and comment count. Additionally, a category_id field, specific to each region, is included in the accompanying JSON file.
 
 **Architecture:**
 
